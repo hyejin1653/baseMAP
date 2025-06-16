@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 20 20" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 2.675781 2.675781 L 17.324219 2.675781 L 17.324219 17.324219 L 2.675781 17.324219 Z M 2.675781 2.675781 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 0 L 20 0 L 0 20 Z M 0 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(98.431373%,74.901962%,14.117648%);stroke-opacity:1;stroke-miterlimit:10;" d="M 271.5 187.5 C 271.5 141.1 233.9 103.5 187.5 103.5 C 141.1 103.5 103.5 141.1 103.5 187.5 C 103.5 233.9 141.1 271.5 187.5 271.5 C 233.9 271.5 271.5 233.9 271.5 187.5 Z M 271.5 187.5 " transform="matrix(0.0390625,0,0,0.0390625,2.675781,2.675781)"/>
+<path style="fill:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(98.431373%,74.901962%,14.117648%);stroke-opacity:1;stroke-miterlimit:10;" d="M 187.5 57.2 L 187.5 7.5 M 187.5 367.5 L 187.5 317.8 M 279.7 95.3 L 314.7 60.3 M 60.3 314.7 L 95.4 279.6 M 95.4 95.2 L 60.4 60.2 M 314.9 314.7 L 279.8 279.6 M 57.2 187.5 L 7.5 187.5 M 367.5 187.5 L 317.8 187.5 " transform="matrix(0.0390625,0,0,0.0390625,2.675781,2.675781)"/>
+</g>
+</g>
+</g>
+</svg>
